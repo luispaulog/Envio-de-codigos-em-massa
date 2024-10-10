@@ -1,0 +1,18 @@
+{
+    "SMTP_SERVER": "smtp.titan.email",
+    "PORTA": "587",
+    "EMAIL_USUARIO": "ti@grupotocadaonca.com.br",
+    "SENHA_USUARIO": "S3gur@nc4!",
+    "ASSUNTO_EMAIL": "Seu C\u00f3digo \u00danico - Teste 2",
+    "ARQUIVO_EMAILS": "emails.txt",
+    "ARQUIVO_CODIGOS": "codigos.txt",
+    "TEMPO_FILA": "2",
+    "REMETENTE_NOME": "Rede de Postos Toca da On\u00e7a",
+    "EMAIL_SAUDACAO": "Prezado(a),",
+    "EMAIL_INSTRUCAO": "Utilize-o conforme as instru\u00e7\u00f5es que voc\u00ea recebeu.",
+    "EMAIL_ASSINATURA": "Atenciosamente,",
+    "EMAIL_EQUIPE": "Equipe Toca da On\u00e7a",
+    "MENSAGEM_PERSONALIZADA": "Segue abaixo o seu c\u00f3digo \u00fanico:",
+    "Browse": "",
+    "Browse0": ""
+}
