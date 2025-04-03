@@ -23,11 +23,11 @@ DEFAULT_CONFIG = {
     'ARQUIVO_EMAILS': 'emails.txt',
     'ARQUIVO_CODIGOS': 'codigos.txt',
     'TEMPO_FILA': '2',
-    'REMETENTE_NOME': 'Rede de Postos Toca da Onça',
+    'REMETENTE_NOME': 'NOME EMPRESA',
     'EMAIL_SAUDACAO': 'Prezado(a),',
     'EMAIL_INSTRUCAO': 'Utilize-o conforme as instruções que você recebeu.',
     'EMAIL_ASSINATURA': 'Atenciosamente,',
-    'EMAIL_EQUIPE': 'Equipe Toca da Onça',
+    'EMAIL_EQUIPE': 'Equipe xxx',
     'MENSAGEM_PERSONALIZADA': 'Segue abaixo o seu código único:'
 }
 
